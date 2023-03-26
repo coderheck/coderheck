@@ -1,3 +1,3 @@
 # hello-world
-"i suck at doing stuffs
-ye thats all of me" - original quote
+i suck at doing stuffs \
+ye thats all of me
